@@ -1,0 +1,167 @@
+[
+	{
+		"deviceID": "1",
+		"deviceName": "Device1",
+		"capacity": "50 Ton",
+		"type": "ForkLift",
+		"latitude": "18.56720187986141",
+		"longitude": "73.76620326893325",
+		"deviceStatus": "Free",
+		"project": "Project1",
+		"operatorName": "Amrindar Singh"
+	},
+	{
+		"deviceID": "2",
+		"deviceName": "Device2",
+		"capacity": "30 Ton",
+		"type": "Crane",
+		"latitude": "18.570056541029242",
+		"longitude": "73.76582481136586",
+		"deviceStatus": "Idle",
+		"project": "Project2",
+		"operatorName": "Raza Syed"
+	},
+	{
+		"deviceID": "3",
+		"deviceName": "Device3",
+		"capacity": "20 Ton",
+		"type": "Equipment",
+		"latitude": "18.569049469886814",
+		"longitude": " 73.76911853231856",
+		"deviceStatus": "Loaded",
+		"project": "Project3",
+		"operatorName": "Tom Cruise"
+	},
+	{
+		"deviceID": "4",
+		"deviceName": "Device4",
+		"capacity": "70 Ton",
+		"type": "ForkLift",
+		"latitude": "18.57079875230449",
+		"longitude": "73.76448367518583",
+		"deviceStatus": "Free",
+		"project": "Project4",
+		"operatorName": "Angelina Jolie"
+	},
+	{
+		"deviceID": "5",
+		"deviceName": "Device5",
+		"capacity": "60 Ton",
+		"type": "Crane",
+		"latitude": "18.574825300196576",
+		"longitude": "73.76143941163168",
+		"deviceStatus": "Idle",
+		"project": "Project5",
+		"operatorName": "Scarlett Johansson"
+	},
+	{
+		"deviceID": "6",
+		"deviceName": "Device",
+		"capacity": "90 Ton",
+		"type": "ForkLift",
+		"latitude": "18.56563141367039",
+		"longitude": "73.76607426876433",
+		"deviceStatus": "Loaded",
+		"project": "Project6",
+		"operatorName": "Robert Downey"
+	},
+	{
+		"deviceID": "7",
+		"deviceName": "Device7",
+		"capacity": "10 Ton",
+		"type": "Crane",
+		"latitude": "18.5700973238158",
+		"longitude": "73.77050107019775",
+		"deviceStatus": "Loaded",
+		"project": "Project7",
+		"operatorName": "Jennifer Lawrence"
+	},
+	{
+		"deviceID": "8",
+		"deviceName": "Device8",
+		"capacity": "60 Ton",
+		"type": "Equipment",
+		"latitude": "18.568480971978158",
+		"longitude": " 73.76662445604958",
+		"deviceStatus": "Loaded",
+		"project": "Project8",
+		"operatorName": "Richard Harri"
+	},
+	{
+		"deviceID": "9",
+		"deviceName": "Device9",
+		"capacity": "100 Ton",
+		"type": "ForkLift",
+		"latitude": "18.568146234407124",
+		"longitude": "73.76723438942166",
+		"deviceStatus": "Idle",
+		"project": "Project9",
+		"operatorName": "Emma Watson"
+	},
+	{
+		"deviceID": "10",
+		"deviceName": "Device10",
+		"capacity": "55 Ton",
+		"type": "Crane",
+		"latitude": "18.56890700066389",
+		"longitude": "73.76512851420017",
+		"deviceStatus": "Loaded",
+		"project": "Project10",
+		"operatorName": "Daniel Radcliffe"
+	},
+	{
+		"deviceID": "11",
+		"deviceName": "Device11",
+		"capacity": "75 Ton",
+		"type": "Crane",
+		"latitude": "18.568571954837083",
+		"longitude": "73.76526238111224",
+		"deviceStatus": "Free",
+		"project": "Project11",
+		"operatorName": "Rupert Grint"
+	},
+	{
+		"deviceID": "12",
+		"deviceName": "Device12",
+		"capacity": "85 Ton",
+		"type": "ForkLift",
+		"latitude": "18.57090613605222",
+		"longitude": "73.76616059046418",
+		"deviceStatus": "Idle",
+		"project": "Project12",
+		"operatorName": "Tom Felton"
+	},
+	{
+		"deviceID": "13",
+		"deviceName": "Device13",
+		"capacity": "95 Ton",
+		"type": "Crane",
+		"latitude": "18.57109976556441",
+		"longitude": "73.76543306887142",
+		"deviceStatus": "Free",
+		"project": "Project13",
+		"operatorName": "AMRINDER SINGH"
+	},
+	{
+		"deviceID": "14",
+		"deviceName": "Device14",
+		"capacity": "35 Ton",
+		"type": "Equipment",
+		"latitude": "18.568089473642964",
+		"longitude": "73.76562164545682",
+		"deviceStatus": "Free",
+		"project": "Project14",
+		"operatorName": "Bonnie Wright"
+	},
+	{
+		"deviceID": "15",
+		"deviceName": "Device15",
+		"capacity": "65 Ton",
+		"type": "ForkLift",
+		"latitude": "18.56743399235113",
+		"longitude": "73.7659719613436",
+		"deviceStatus": "Loaded",
+		"project": "Project15",
+		"operatorName": "Helen McCrory"
+	}
+]
